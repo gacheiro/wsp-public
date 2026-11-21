@@ -1,0 +1,5 @@
+Os testes foram realizados para um número de períodos de tempo igual ao teto da divisão entre
+a soma dos reparos dividida pelo número total de WT. No entanto, para a instância 7n10r40B5.lp,
+o fato de o modelo forçar o reparo de todas as arestas faz com que a solução final não seja 
+ótima. Na solução ótima, as WT são alocadas primeiro à aresta [1,4] e em seguida à [4,7], mas 
+ao fim de 10 períodos uma das arestas resta bloqueada.
