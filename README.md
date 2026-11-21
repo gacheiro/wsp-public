@@ -184,6 +184,14 @@ If you use this code or these instances, please cite:
 }
 ```
 
+## License
+
+The code is released under the [MIT License](LICENSE).
+
+The `g1` instances and the `.lp` generator in `cplex/lp-generator/` come from
+Sakuraba et al. (2016). `scripts/tttplots.pl` is by Aiex, Resende and Ribeiro.
+They are included for reproducibility and keep their authors' terms.
+
 ## References
 
 - C. S. Sakuraba, A. C. Santos, C. Prins, L. Bouillot, A. Durand, B. Allenbach.
